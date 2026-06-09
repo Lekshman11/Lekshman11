@@ -1,161 +1,151 @@
-<!-- Animated banner -->
+<!-- TOP BANNER: capsule-render is reliable -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Lekshman%20S&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Data%20Science&descAlignY=62&descSize=18&color=0:6EE7F7,100:3B82F6&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Lekshman%20S&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=17&color=timeGradient&fontColor=fff&animation=twinkling" width="100%"/>
 </p>
 
-<!-- Visitor counter + profile views -->
+<!-- TYPING SVG: readme-typing-svg is stable -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lekshman11&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <a href="https://github.com/Lekshman11?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lekshman11?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Final+Year+B.Tech+%7C+AI+%26+Data+Science;Spring+Boot+%2B+React+19+%7C+Full+Stack;Building+SmartFood+AI+%F0%9F%8D%BD%EF%B8%8F;Open+to+SDE+Roles+%F0%9F%9A%80;Production-first+Engineering+Mindset" alt="Typing SVG" />
 </p>
 
-<!-- Typing animation -->
+<!-- PROFILE VIEWS: komarev is the most stable counter -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+AI+%26+Data+Science;Full+Stack+Developer+%7C+Spring+Boot+%2B+React;Building+Production-Grade+Software;Open+to+SDE+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://komarev.com/ghpvc/?username=Lekshman11&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20Roles-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 > *Engineering software at production scale — not just portfolio pieces.*
 
-- 🎓 Final Year B.Tech in **Artificial Intelligence & Data Science** @ J.J. College of Engineering & Technology, Trichy
-- 🏗️ Currently building **SmartFood AI** — a full-stack AI-powered food intelligence platform (React 19 + Spring Boot + Gemini AI)
-- 🌱 Deep diving into **System Design**, **DSA**, **Cloud Architecture**, and **Distributed Systems**
-- 🎯 Actively seeking **SDE campus roles** — passionate about scalable backend systems and intelligent applications
-- ⚡ Belief: *Every project should be production-ready, not just demo-ready*
+- Pursuing **B.Tech in AI & Data Science** @ J.J. College of Engineering & Technology, Trichy
+- Building **SmartFood AI** — a production-grade platform (React 19 + Spring Boot + Gemini AI + MySQL)
+- Exploring **System Design**, **DSA**, **Cloud Architecture**, and **Distributed Systems**
+- Targeting **SDE campus roles** with a focus on scalable backend systems
+- CGPA: **8.52** | Final Year | Actively applying
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,mysql,git,github,vscode,docker,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,nodejs,mysql,git,github,docker,linux,vscode&perline=6" />
 </p>
-
-<details>
-<summary><b>📋 Full Tech Breakdown</b></summary>
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java, Python, JavaScript, SQL |
-| **Frontend** | React 19, HTML5, CSS3 |
-| **Backend** | Spring Boot, Node.js, REST APIs, JWT Auth |
-| **Database** | MySQL, SQLite |
-| **AI / ML** | Gemini AI API, BERT, NLP, OpenCV |
-| **Tools** | Git, GitHub, Docker, Postman, VS Code |
-| **Currently Learning** | System Design, Cloud (AWS), DSA |
-
-</details>
+| Languages | Java, Python, JavaScript, SQL |
+| Frontend | React 19, HTML5, CSS3 |
+| Backend | Spring Boot, Node.js, JWT Auth, REST APIs |
+| Database | MySQL, SQLite |
+| AI / ML | Gemini AI, BERT, NLP, OpenCV |
+| Tools | Git, Docker, Postman, VS Code |
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### 🍽️ SmartFood AI *(Flagship)*
-> **Full-stack AI-powered food intelligence platform**
+### SmartFood AI &nbsp; `Flagship`
+> Full-stack AI-powered food intelligence platform
 
-![React](https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Engineered a microservice-ready REST API backend with Spring Boot, JWT auth, and role-based access control
-- Integrated Google Gemini AI for real-time food nutrition analysis and personalized dietary recommendations
-- Built a responsive React 19 frontend with context-based state management and protected routing
-- Architected a normalized MySQL schema handling users, food logs, meal plans, and AI response caching
-
----
-
-### 🤖 Emotion Detection System *(NLP/AI)*
-> **Transformer-based emotion classification engine**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-- Fine-tuned BERT transformer model on multi-label emotion dataset achieving high classification accuracy
-- Designed preprocessing pipeline with tokenization, padding, and attention masking for optimal inference
-- Built evaluation framework with precision, recall, and F1-score reporting across emotion categories
+- Architected a microservice-ready REST API with Spring Boot, JWT auth, and role-based access control
+- Integrated Gemini AI for real-time nutrition analysis and personalised dietary recommendations
+- Built React 19 frontend with context-based state management and protected routing
+- Designed normalised MySQL schema handling users, food logs, meal plans, and AI response caching
 
 ---
 
-### ⚖️ EquiVal *(Legal Tech)*
-> **AI-powered legal awareness and document analysis platform**
+### Emotion Detection System &nbsp; `NLP / AI`
+> BERT-based transformer emotion classification engine
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-000000?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-- Built a citizen-facing legal information system that simplifies complex legal language using NLP
-- Developed document parsing module to extract key clauses from legal texts with structured output
-- Selected at hackathon for its impact on legal accessibility and citizen safety
-
----
-
-### 🏠 PropertyEstimator
-> **Market-driven property valuation platform**
-
-- Engineered valuation engine using real market comparables instead of opaque ML black-box predictions
-- Full-stack application with clean data pipeline from ingestion to user-facing price estimates
+- Fine-tuned BERT on multi-label emotion datasets with tokenisation and attention masking pipeline
+- Built evaluation framework reporting precision, recall, and F1-score per emotion class
 
 ---
 
-## 📊 GitHub Analytics
+### EquiVal &nbsp; `Legal Tech · Hackathon`
+> AI-powered legal awareness and document analysis platform
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square)
+
+- Built citizen-facing legal info system that simplifies complex legal language using NLP
+- Developed document parser to extract key clauses with structured output
+- Recognised at hackathon for impact on legal accessibility and citizen safety
+
+---
+
+## GitHub Analytics
+
+<!--
+  NOTE: github-readme-stats sometimes rate-limits on free tier.
+  If the cards below go blank again, use the self-hosted version:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lekshman11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshman11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=Lekshman11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    onerror="this.style.display='none'"
+  />
+  <img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshman11&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    onerror="this.style.display='none'"
+  />
 </p>
 
+<!-- ACTIVITY GRAPH: more reliable than streak-stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lekshman11&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lekshman11&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
+<!-- SNAKE: generates from GitHub Actions — most reliable visual ever -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lekshman11&theme=nord&column=6&no-frame=true&margin-w=4" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lekshman11/Lekshman11/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lekshman11/Lekshman11/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Lekshman11/Lekshman11/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🏅 Highlights
+## Highlights
 
-<table align="center">
-  <tr>
-    <td align="center">🏆</td><td>Smart India Hackathon Participant</td>
-    <td align="center">🏅</td><td>T-Hub Hackathon Participant</td>
-  </tr>
-  <tr>
-    <td align="center">📄</td><td>Research Paper Contributor</td>
-    <td align="center">💡</td><td>Production-Grade Project Developer</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| Smart India Hackathon Participant | T-Hub Hackathon Participant |
+| Research Paper Contributor | Production-Grade Project Developer |
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <p align="center">
   <a href="mailto:senthillakshman11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lekshman-s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Lekshman11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/lekshman-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/Lekshman11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:6EE7F7&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=footer"/>
 </p>
 
 <p align="center">
