@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=LEKSHMAN&fontSize=50&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Lekshman</h1>
 
 <h3 align="center">
