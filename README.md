@@ -1,9 +1,8 @@
 <!-- ====================== HERO BANNER ====================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:1F6FEB,100:58A6FF&text=LEKSHMAN%20S&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=LEKSHMAN&fontSize=50&animation=fadeIn"/>
 </p>
-
 <!-- ====================== TYPING ANIMATION ====================== -->
 
 <p align="center">
